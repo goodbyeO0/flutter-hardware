@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405702086884",
+    "firebase_url": "https://flutter-hardware-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-hardware",
+    "storage_bucket": "flutter-hardware.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405702086884:android:d24335eccb1eafc1455cf1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405702086884-26lknl81lp9jrvev4bkknqrjapps7opj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_lab",
+            "certificate_hash": "0c3debcacecfbacd30a0e74f79622665ab41bcad"
+          }
+        },
+        {
+          "client_id": "405702086884-65uolh9rg1h74haf88n22lufkqs1rj32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSf4OCxhpJukAbiWHOYMuWJgefCoi7MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405702086884-65uolh9rg1h74haf88n22lufkqs1rj32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
